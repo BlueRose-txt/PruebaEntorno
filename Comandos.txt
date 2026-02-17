@@ -1,4 +1,16 @@
-git config --global autocrlf true (Para el WIND)
-git config --global autocrlf input (Para MAC O LINUX)
+git init 
+git add . 
+git commit -m "Primer comentario"
+git log (Ver comentario o informacion)
+
+(A=Si tiene seguimiento)
+(U=untraket)
+(M=Esta modificado el archivo)
+
+
+
+
+git config --global core.autocrlf true (Para el WIND)
+git config --global core.autocrlf input (Para MAC O LINUX)
 
 
